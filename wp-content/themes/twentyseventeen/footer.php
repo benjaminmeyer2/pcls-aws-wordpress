@@ -18,7 +18,6 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
-				<p>yourrandomemail@gmail.com</p>
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
 
