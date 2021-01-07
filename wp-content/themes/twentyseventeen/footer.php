@@ -19,7 +19,7 @@
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
 				
-				<!-- <p><a href="mailto:mycompany@gmail.com" target="_blank">mycompany@gmail.com</a></p> -->
+				<p><a href="mailto:mycompany@gmail.com" target="_blank">mycompany@gmail.com</a></p>
 				
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
